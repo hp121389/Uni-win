@@ -1,0 +1,4 @@
+bert-base-cased/
+nyt-checkpoint-final/
+data4bert/
+*.log
