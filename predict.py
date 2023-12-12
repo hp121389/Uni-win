@@ -19,7 +19,7 @@ class UniRel:
         self.max_length = max_length
         self.max_length = max_length
         self._get_pred_str(dataset_name)
-        
+
     
     def _get_pred_str(self, dataset_name):
         self.pred2text = None
